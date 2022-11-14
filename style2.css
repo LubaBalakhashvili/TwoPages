@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    padding: 20px;
+}
+
+a{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
